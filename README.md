@@ -1,1 +1,1 @@
-# manual-segmentation-interface
+# sashimi-web-interface
