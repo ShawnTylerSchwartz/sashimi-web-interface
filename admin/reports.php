@@ -28,7 +28,7 @@ if(isset($_POST['username'])) {
         <meta name="description" content="Standard Length Subsampling Interface for Coral Reef Fish Color Patterns">
         <meta name="author" content="Shawn Tyler Schwartz">
 
-        <title>FishBONE Admin Panel</title>
+        <title>sashimi Admin Panel</title>
 
         <!-- Bootstrap Core CSS CDN -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -56,7 +56,7 @@ if(isset($_POST['username'])) {
 
     <body>
         <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-            <a class="navbar-brand" href="index.php"><i class="fas fa-fish"></i> FishBONE Admin Panel</a>
+            <a class="navbar-brand" href="index.php"><i class="fas fa-fish"></i> <em>sashimi</em> Admin Panel</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -72,7 +72,7 @@ if(isset($_POST['username'])) {
                         </button>
                     </a>
                     &nbsp;
-                    <a href="../download_fish.php" target="_blank">
+                    <a href="../download.php" target="_blank">
                         <button class="btn btn-secondary" type="button">
                             <i class="fas fa-file-download"></i> Download BG Removed Fish 
                         </button>

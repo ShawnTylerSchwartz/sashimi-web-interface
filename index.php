@@ -93,7 +93,7 @@
   		<br /><br />
   		If you are a returning participant, you should use the same identifier each time. <strong>Your email address or chosen unique identifier will not be stored</strong>.
   		<br /><br />
-		For any questions regarding the interface, please email <strong>shawnschwartz@ucla.edu</strong> with the subject line [FishBONE Interface]. Thank you.
+		For any questions regarding the interface, please email <strong>shawnschwartz@ucla.edu</strong> with the subject line [<em>sashimi</em> Interface Inquiry]. Thank you.
 	</div>
 
 <?php include 'snippets/footer.php'; ?>

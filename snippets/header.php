@@ -19,7 +19,7 @@
 		<meta name="description" content="Background Removal Clipping Mask Interface for Coral Reef Fish Color Patterns">
 		<meta name="author" content="Shawn Tyler Schwartz">
 
-		<title>FishBONE Interface</title>
+		<title>sashimi Interface</title>
 
 		<!-- Bootstrap Core CSS CDN -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
